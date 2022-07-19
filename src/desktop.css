@@ -153,7 +153,6 @@
 .contact-container{
     flex-direction: row;
     padding: 20px 125px;
-    gap: 100px;
 }
 
 .list-nav--footer{
@@ -161,6 +160,7 @@
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 30px;
     grid-row-gap: 0;
+    margin-left: 80px;
 }
 
 .list-nav--footer li:hover{
